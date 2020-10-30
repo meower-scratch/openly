@@ -10,6 +10,13 @@ This isn't a website where you share private info (passwords, IP addresses, etc)
 
 This isn't a website for any content, just for code. Content that is off-topic will be removed.
 
-This isn't a website for sharing file data that is inappropiate when pasted (like inappropiate picture data which can be pasted and renamed, e.g. file.png.txt).
+This isn't a website for sharing file data that is inappropiate when pasted (like inappropiate picture data which can be pasted and renamed, e.g. file.jpg.txt).
 
-## Should we have another section here? maybe Exceptions? hmm...
+## Moderation
+
+### What's allowed?
+- 
+- 
+### What's not allowed?
+- 
+- 
