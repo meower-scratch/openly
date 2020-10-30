@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Varta');
+
+body, a, html {
+  font-family: Varta;
+}
+
+.content {
+  margin-top:65px;
+  right: 20px;
+}
+
+#navbar {
+  display: inline;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color:rgb(59, 156, 201);
+  padding: 5px 10px;
+  border-bottom-right-radius: 12px;
+  color: whitesmoke;
+  box-shadow: 0px 0px 15px rgb(0, 0, 0, 0.25);
+}
+
+#navbar a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+#footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+
+blockquote {
+  background: rgb(95, 95, 95 0.5);
+  border-left: 10px solid rgb(95, 95, 95);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-size: 10px;
+  line-height: 0.1em;
+  margin-right: 0.25em; // Hi
+  vertical-align: -0.4em; /* so this code isnt running */
+}
