@@ -19,11 +19,21 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 
 ### What's allowed?
 - Sharing appropiate snippets of code suitable for under 18s (it's fine if the code is 13+)
-- Team Scripting
-- Digital Citizenship (No bullying whatsoever, etc.)
-- Sharing code that contains no hate speach.
+- Team scripting
+- Digital citizenship (no bullying whatsoever, etc.)
+- Sharing code that doesn't contain offensive material
+- Saying positive things in the discord.
+- Making safe, legal, unmalicious code.
 ### What's not Allowed?
-- Sharing Inappropiate Content
-- Spam Messaging
+- Sharing inappropiate or illegal content
+- Spam messaging
 - Hate against one Opener becuase of race, sex, gender, sexual orientation, religion, political opinion, etc.
-- No digitally attacking other Openers (Digital Citizenship Matters) 
+- No harassing other Openers (Digital Citizenship Matters)
+- Uploading content not made by you. If you do, please give credit to the original author, or Opener by using @mention.
+- Being a Karen.
+- Uploading malicious code, such as infected C++, or Javascript.
+- Please note that only a maximum of 3 accounts are allowed under a single IP address.
+- 
+
+##Special Coding Lang
+- For snippets of code from special coding languages (such as code that isn't text-based such as scratch) we have special editors for Scratch, Snap, or  other coding languages that are not text-based, or use special characters.
