@@ -1,4 +1,4 @@
-# Openly's Github repo
+# __Openly's Github repo__
 [![Run on Repl.it](https://repl.it/badge/github/@Touchcreator/openly)](https://repl.it/@Touchcreator/openly)
 ___
 You are seeing the inner workings of this website, on either github or repl.it, these are rules that you must follow if you choose to join openly.
@@ -8,7 +8,7 @@ You are seeing the inner workings of this website, on either github or repl.it, 
 ### is
 This is a website for sharing bits of code you made on the Internet.
 
-### __isn't__
+### isn't
 This isn't a website where you share private info (passwords, IP addresses, etc).
 
 This isn't a website for any content, just for code. Content that is off-topic will be removed.
@@ -17,12 +17,12 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 
 ## __Moderation__
 
-### __What's allowed?__
+### What's allowed?
 - Sharing appropiate snippets of code suitable for under 18s (it's fine if the code is 13+)
 - Team Scripting
 - Digital Citizenship (No bullying whatsoever, etc.)
 - Sharing code that contains no hate speach.
-### __What's not Allowed?
+### What's not Allowed?
 - Sharing Inappropiate Content
 - Spam Messaging
 - Hate against one Opener becuase of race, sex, gender, sexual orientation, religion, political opinion, etc.
