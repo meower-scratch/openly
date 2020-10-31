@@ -1,5 +1,8 @@
 # Openly's Github repo
 [![Run on Repl.it](https://repl.it/badge/github/@Touchcreator/openly)](https://repl.it/@Touchcreator/openly)
+
+
+
 ## What this is/isn't
 
 ### is
@@ -18,5 +21,5 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 - 
 - 
 ### What's not allowed?
-- 
+- Sharing Innopropiate Content
 - 
