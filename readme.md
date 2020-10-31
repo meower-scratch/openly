@@ -24,6 +24,10 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 - Sharing code that doesn't contain offensive material
 - Saying positive things in the discord.
 - Making safe, legal, unmalicious code.
+- Following the guidelines
+- Letting people keep secrets
+- Being cool.
+- Linking to safe websites when needed.
 ### What's not Allowed?
 - Sharing inappropiate or illegal content
 - Spam messaging
@@ -35,5 +39,5 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 - Please note that only a maximum of 3 accounts are allowed under a single IP address.
 - 
 
-##Special Coding Lang
+## __Special Coding Language__
 - For snippets of code from special coding languages (such as code that isn't text-based such as scratch) we have special editors for Scratch, Snap, or  other coding languages that are not text-based, or use special characters.
