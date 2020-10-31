@@ -1,7 +1,7 @@
 # Openly's Github repo
 [![Run on Repl.it](https://repl.it/badge/github/@Touchcreator/openly)](https://repl.it/@Touchcreator/openly)
-
-
+___
+You are seeing the inner workings of this website, on either github or repl.it, these are rules that you must follow if you choose to join openly.
 
 ## What this is/isn't
 
@@ -18,8 +18,8 @@ This isn't a website for sharing file data that is inappropiate when pasted (lik
 ## Moderation
 
 ### What's allowed?
-- 
+- Sharing appropiate snippets of code suitable for under 18s (Its fine if a under 13 ccannot see the code)
 - 
 ### What's not allowed?
-- Sharing Innopropiate Content
+- Sharing Innappropiate Content
 - 
