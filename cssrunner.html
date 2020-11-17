@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			history.pushState(0, 0, 'CSS' );
+		</script>
+		<link rel="shortcut icon" href="http://www.openly.tk/assets/images/favicon.svg" type="image/x-icon"/>
+<link rel="stylesheet" href="assets/css/style.css">
+		<title>Openly's CSS Runner</title>
+	</head>
+	<header id="navbar">
+		<a href="https://scratch.mit.edu/studios/27766140/">Meower Media Co.</a> | <a>Openly: </a><a href="//www.openly.tk">Home</a> | <a href="//www.openly.tk/about">About</a> | <a href="//www.openly.tk/changelog">Changelog</a> | <a href="//www.openly.tk/terms-of-service">Terms</a> | <a href="//www.openly.tk/htmlrunner.html">HTML Runner</a>
+		| <a href="//www.openly.tk/jsrunner.html">JS Runner</a>
+		| <a href="//www.openly.tk/cssrunner.html">CSS Runner</a>
+		| <a href="//www.openly.tk/coders.assets">FREE ART!!!</a>
+	</header>
+	<body>
+		<center>
+			<br><br><font size = 6>CSS Runner</font><br>
+			<textarea id="code" name="TextInputID" rows="25" cols="120"></textarea><br>
+			<button onclick="wFunction()" class="cssplus-button font-poppins"><i class="fas fa-plus"></i>Run</button> <br><br>
+	  <script>
+function wFunction() {
+  var html = document.getElementById("code").value;
+  var html = '<title>Openly CSS</title><style>' + html + '</style>'
+  document.write(html)
+  history.pushState(0, 0, 'run' );
+}
+</script>
+	    For Better a Better Editor Go <a href ='https://stuff.dabdatbass.repl.co/'>Here</a>
+	</body>
+</html>
